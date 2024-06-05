@@ -1,2 +1,2 @@
 # lab-agile-planning
-kanban on ZenHub hands-on
+kanban on ZenHub hands-on for Agile planning
